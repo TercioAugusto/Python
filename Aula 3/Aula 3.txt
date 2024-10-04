@@ -1,0 +1,4 @@
+While e For para estrutura de repetição
+i = variavel de controle
+
+for i in range(x) ("sem inicial ele começa no 0")= estrutura basica do for

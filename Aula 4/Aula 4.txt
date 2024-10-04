@@ -1,0 +1,23 @@
+estrutura de while:
+
+continua="s" - sempre declarar a variavel que continua o programa primeiro.
+var1=0
+var2=0 - declarar as variaveis que somam
+
+lista = dinamica (varios tipos de variveis) heterogeneo - ruim para contas matematicas - tamanho pode ser alterado - append(aumenta a lista)
+
+vetor=continua (apenas um tipo de variavel) homogeneo - otima para contas matematicas - precisa declarar o tamanho no inicio e não pode alterar
+
+estrutura de lista:
+
+lista=[0]*n("numero que eu quero de lista)
+soma=0
+for i in range(10):
+   lista[i]=int(input(f"Digite o {i+1}º elemento: "))
+   soma+=lista[i]
+print(Números digitados são:")
+print(lista)
+print(f"O somatório é {soma}")
+
+
+
